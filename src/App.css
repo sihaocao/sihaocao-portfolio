@@ -198,6 +198,21 @@
   .project_name {
     margin-bottom: 20px;
   }
+  .portfolio-link, .react-link {  
+    text-decoration: none;
+  }
+  .portfolio-link {
+    color: #000036;
+  }
+  .portfolio-link:hover {
+    color: #0000cc;
+  }
+  .react-link {
+    color: #03D8FF;
+  }
+  .react-link:hover {
+    color: #0F256E;
+  }
 }
 
 @media screen and (max-width: 1150px) {
@@ -316,6 +331,21 @@
   .links_container_container {
     display: flex;
     justify-content: center;
+  }
+  .portfolio-link, .react-link {  
+    text-decoration: none;
+  }
+  .portfolio-link {
+    color: #000036;
+  }
+  .portfolio-link:hover {
+    color: #0000cc;
+  }
+  .react-link {
+    color: #03D8FF;
+  }
+  .react-link:hover {
+    color: #0F256E;
   }
 }
 

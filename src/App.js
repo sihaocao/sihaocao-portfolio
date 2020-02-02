@@ -34,7 +34,7 @@ class App extends Component {
             </section>
           </section>
           <footer className="footer">
-            This portfolio is built with React 
+            This <a href="https://github.com/sihaocao/sihaocao-portfolio" className="portfolio-link" target="_blank" rel="noopener noreferrer">website</a> is built with <a href="https://reactjs.org/" className="react-link" target="_blank" rel="noopener noreferrer">React</a>
             {' '}
             <i className="devicon-react-original colored"></i>
           </footer>
