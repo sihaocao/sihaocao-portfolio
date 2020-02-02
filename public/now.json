@@ -1,0 +1,15 @@
+{
+    "version": 2,
+    "alias": "scao-portfolio-site",
+    "name": "scao-portfolio",
+    "routes": [
+      {
+        "src": "^/static/(.*)",
+        "dest": "/static/$1"
+      },
+      {
+        "src": ".*",
+        "dest": "/index.html"
+      }
+    ]
+}
