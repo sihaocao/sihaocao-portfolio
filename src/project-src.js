@@ -21,6 +21,16 @@ export default {
             description: "Zebralogs allows any sports official to track one's game information. You can also search and export the list of contest entries for organized record keeping."
         },
         {
+            id: 'weather-now',
+            name: 'Weather Now',
+            link: 'https://weather-now-lac.now.sh/',
+            repo: 'https://github.com/sihaocao/weather-now',
+            screenshot: 'https://i.gyazo.com/cad29a2ac8ca8e8637e310fe14c9d922.png',
+            ssAlt: 'A screenshot of the result page of my Weather Now app',
+            tech: ['HTML5', 'CSS3', 'JavaScript', 'React'],
+            description: "A basic weather app that tells you the current temperature and weather condition of the location of your choice."
+        },
+        {
             id: 'daily-crypto-dashboard',
             name: 'Daily Crypto Dashboard',
             link: 'https://sihaocao.github.io/Daily-Crypto-Dashboard/',
